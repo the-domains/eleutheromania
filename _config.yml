@@ -1,0 +1,28 @@
+name: Eleutheromania
+favicon: null
+layout_spectrum: 0.25783692114055157
+typography_spectrum: 0.66656105639413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9617115762084723
+  lightness: 0.6422966858372092
+  saturation: 0.720970154274255
+  rhythmicContrast: 0.13102633086964488
+purpose: []
