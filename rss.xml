@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Eleutheromania]]></title>
         <description><![CDATA[Eleutheromania]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eleutheromania/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 05:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 05:43:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eleutheromania/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Don't Know Iwate In Japan, But Here's Why You Should]]></title>
+            <description><![CDATA[<article><h1>You Don't Know Iwate In Japan, But Here's Why You Should</h1><p>Travel to Iwate may be off the beaten path for most travelers coming to Japan who are much more familiar with the mega-cities Japan is known for, but with its rural vibe and abundant sights steeped in history, there's no question Iwate should be a part of any visitor's trip to the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5ad579c9d580b107f5dbba59b1f83b5ae5e09f.jpg"></article>]]></description>
+            <link>http://www.theexpeditioner.com/feature-articles/You-Dont-Know-Iwate-In-Japan-But-Heres-Why-You-Should/</link>
+            <guid isPermaLink="false">fb73f82c-307b-45ba-9139-76a98759f35a</guid>
+            <pubDate>Fri, 06 May 2016 05:42:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 Ideal Destinations for the Solo Traveler]]></title>
             <description><![CDATA[<article><h1>10 Ideal Destinations for the Solo Traveler</h1><p>As we celebrate self love this month, it only seems appropriate that we discuss the act of solo travel. Let's be honest: the act of solo travel can be daunting for several reasons. You might be nervous for your safety, or wondering how you can possibly entertain yourself without the company of a loved one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0f5a1b340b111d0261fdedd1ceb0daa8e67e444.jpg"></article>]]></description>
