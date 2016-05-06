@@ -1,7 +1,7 @@
 name: Eleutheromania
 favicon: null
-layout_spectrum: 0.25783692114055157
-typography_spectrum: 0.66656105639413
+layout_spectrum: 0.36621
+typography_spectrum: 0
 title: Eleutheromania
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9617115762084723
+    - '#74849d'
+    - '#fafafa'
+    - '#b3c5d3'
+    - '#0f0e09'
+    - '#584d2f'
+  brandStrength: 0
   lightness: 0.6422966858372092
   saturation: 0.720970154274255
   rhythmicContrast: 0.13102633086964488
