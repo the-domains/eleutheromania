@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ ]]></title>
-        <description><![CDATA[ ]]></description>
+        <title><![CDATA[Eleutheromania]]></title>
+        <description><![CDATA[Eleutheromania]]></description>
         <link>https://thegrid.ai/eleutheromania/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 11:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:28:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eleutheromania/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 Nifty Little Items You Never Pack...But Should]]></title>
+            <description><![CDATA[<article><h1>8 Nifty Little Items You Never Pack...But Should</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/171e9b6e412f28b14fa6d4d12dee38c8d94f726b.jpg"></article>]]></description>
+            <link>http://www.budgettravel.com/slideshow/8-items-you-never-packbut-should,7820/#pic=1</link>
+            <guid isPermaLink="false">495a392f-cfce-48cf-9727-5aead61fbd39</guid>
+            <pubDate>Fri, 06 May 2016 14:28:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 Things Not to Do When Traveling as a Couple]]></title>
             <description><![CDATA[<article><h1>10 Things Not to Do When Traveling as a Couple</h1><p>As a couple, my husband and I have traveled quite a bit. We also work remotely as freelancers which means neither of us takes off to an office during the day. Needless to say, over the time we've been in a relationship, we've spent a lot of time together and often in very close quarters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8158b915a679b91284202f7b70b0ff9deb6cb8d7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theexpeditioner.com/feature-articles/10-Travel-Tips-Rick-Steves-Wont-Tell-You-Or-Doesnt-Know/</link>
             <guid isPermaLink="false">21210f8a-5d8e-466b-969c-da2427f281ff</guid>
             <pubDate>Fri, 06 May 2016 05:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Don't Know Iwate In Japan, But Here's Why You Should]]></title>
-            <description><![CDATA[<article><h1>You Don't Know Iwate In Japan, But Here's Why You Should</h1><p>Travel to Iwate may be off the beaten path for most travelers coming to Japan who are much more familiar with the mega-cities Japan is known for, but with its rural vibe and abundant sights steeped in history, there's no question Iwate should be a part of any visitor's trip to the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5ad579c9d580b107f5dbba59b1f83b5ae5e09f.jpg"></article>]]></description>
-            <link>http://www.theexpeditioner.com/feature-articles/You-Dont-Know-Iwate-In-Japan-But-Heres-Why-You-Should/</link>
-            <guid isPermaLink="false">fb73f82c-307b-45ba-9139-76a98759f35a</guid>
-            <pubDate>Fri, 06 May 2016 05:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
