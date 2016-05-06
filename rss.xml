@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eleutheromania]]></title>
+        <description><![CDATA[Eleutheromania]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 05:37:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Ideal Destinations for the Solo Traveler]]></title>
+            <description><![CDATA[<article><h1>10 Ideal Destinations for the Solo Traveler</h1><p>As we celebrate self love this month, it only seems appropriate that we discuss the act of solo travel. Let's be honest: the act of solo travel can be daunting for several reasons. You might be nervous for your safety, or wondering how you can possibly entertain yourself without the company of a loved one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0f5a1b340b111d0261fdedd1ceb0daa8e67e444.jpg"></article>]]></description>
+            <link>http://wanderlust.com/journal/10-ideal-destinations-for-the-solo-traveler/</link>
+            <guid isPermaLink="false">18d56443-82ec-4e9f-bbaa-f0836bc2d3aa</guid>
+            <pubDate>Fri, 06 May 2016 05:36:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
