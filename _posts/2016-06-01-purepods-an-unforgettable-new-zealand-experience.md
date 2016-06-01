@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.purepods.com'
-  name: PurePods
-  favicon: 'http://2oys2z15ya521mah7cb6n6mk.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/cropped-siteicon-300x300.png'
-  domain: www.purepods.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.purepods.com/'
+inLanguage: en
 keywords:
   - purepod
   - zealand
@@ -18,19 +16,24 @@ keywords:
   - pure
   - nature
 description: 'PurePods is a total immersion, totally private experience of your own slice of beauty. The PurePod is designed from the foundations up for environmental sustainability'
-inLanguage: en
+datePublished: '2016-06-01T07:32:49.187Z'
+dateModified: '2016-06-01T07:32:47.852Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.purepods.com/'
 title: PurePods - An unforgettable New Zealand experience
-datePublished: '2016-06-01T06:30:23.291Z'
-dateModified: '2016-05-31T04:38:13.537Z'
+authors: []
+publisher:
+  name: PurePods
+  domain: www.purepods.com
+  url: 'http://www.purepods.com'
+  favicon: 'http://2oys2z15ya521mah7cb6n6mk.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/cropped-siteicon-300x300.png'
 starred: false
 sourcePath: _posts/2016-06-01-purepods-an-unforgettable-new-zealand-experience.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>PurePods - An unforgettable New Zealand experience</h1><p>PurePods is a total immersion, totally private experience of your own slice of beauty. The PurePod is designed from the foundations up for environmental sustainability</p><img src="http://2oys2z15ya521mah7cb6n6mk.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/locations-700x666.jpg" /></article>
+![PurePods is a total immersion, totally private experience of your own slice of beauty. The PurePod is designed from the foundations up for environmental sustainability](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b6d773-b143-4f78-9828-3c239ef21259.jpg)
