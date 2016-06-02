@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Herebelow are a few tips for travellers who are planning to go to India on conducted tours. All this tips are derived from feedback received from our clients.'
-datePublished: '2016-06-02T10:57:13.915Z'
-dateModified: '2016-05-28T14:16:40.601Z'
+datePublished: '2016-06-02T11:02:47.523Z'
+dateModified: '2016-06-02T11:02:19.680Z'
 title: Top tips for travellers going to India
 author: []
 sourcePath: _posts/2016-05-25-advise-for-travellers-going-to-india-for-tour.md
@@ -17,7 +17,7 @@ url: advise-for-travellers-going-to-india-for-tour/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e3f8eb4-b182-4454-a6ff-7789f4378a52.jpg)
+![Herebelow are a few tips for travellers who are planning to go to India on conducted tours. All this tips are derived from feedback received from our clients.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a45eea0d2a3174ebd19d2a9e667e9c0f77fc3604.jpg)
 
 ### Top tips for travellers going to India
 
