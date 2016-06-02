@@ -4,17 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Please do carry some essential over the counter medication for simple illness such as headache, cough and cold.\_"
-datePublished: '2016-06-02T11:15:19.767Z'
-dateModified: '2016-06-02T11:15:00.360Z'
-title: Top tips for travellers going to IndiaTop tips for travellers going to India
+description: 'Please do carry some essential over the counter medication for simple illness such as headache, cough and cold. '
+datePublished: '2016-06-02T11:20:20.803Z'
+dateModified: '2016-06-02T11:20:15.580Z'
+title: Top tips for travellers going to India
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-02-top-tips-for-travellers-going-to-indiatop-tips-for-traveller.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-02-top-tips-for-travellers-going-to-indiatop-tips-for-traveller.md
 url: top-tips-for-travellers-going-to-indiatop-tips-for-traveller/index.html
 _type: Article
 
