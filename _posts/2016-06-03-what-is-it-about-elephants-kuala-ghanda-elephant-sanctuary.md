@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://travelwithbender.com/travel-blog/kuala-lumpur/what-is-it-about-elephants/'
 title: What Is It About Elephants? Kuala Ghanda Elephant Sanctuary
-datePublished: '2016-06-03T02:22:40.406Z'
-dateModified: '2016-06-03T02:19:17.905Z'
+datePublished: '2016-06-03T02:40:19.885Z'
+dateModified: '2016-06-03T02:23:16.249Z'
 starred: false
 sourcePath: _posts/2016-06-03-what-is-it-about-elephants-kuala-ghanda-elephant-sanctuary.md
 inFeed: true
