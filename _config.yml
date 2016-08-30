@@ -1,14 +1,36 @@
-name: Eleutheromania
-favicon: null
-layout_spectrum: 0.6787521
 typography_spectrum: 0.06155143
-title: Eleutheromania
 content_rating:
   adult: false
+color:
+  brandColors:
+    - '#1c3089'
+    - '#ffeefe'
+    - '#5dabdc'
+    - '#91def2'
+    - '#f067e9'
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.720970154274255
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6787521
+analytics:
+  google: UA-77378645-1
+  facebook: null
+  twitter: null
 author:
   url: www.anandtravels.net
   name: Anand Arun
   email: anandarun99@gmail.com
+name: Eleutheromania
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -21,27 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77378645-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#1c3089'
-    - '#ffeefe'
-    - '#5dabdc'
-    - '#91def2'
-    - '#f067e9'
-  brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.720970154274255
-  rhythmicContrast: 0.5
+title: The urge to travel indefinietly
 purpose: []
