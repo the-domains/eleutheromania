@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Eleutheromania]]></title>
-        <description><![CDATA[Eleutheromania]]></description>
+        <title><![CDATA[The urge to travel indefinietly]]></title>
+        <description><![CDATA[The urge to travel indefinietly]]></description>
         <link>https://thegrid.ai/eleutheromania/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 01:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 04:08:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eleutheromania/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 7 Wonders of Bangkok]]></title>
+            <description><![CDATA[<article><h1>The 7 Wonders of Bangkok</h1><p>Bangkok is arguably the most fascinating, dynamic and popular city in the world. It's no wonder it is the hub of South East Asia with its culture, food, touristic and off-the-beaten spots. Here are 7 wonders of Bangkok Quite possibly the most touristic destination in Thailand - the Grand Palace is a majestic complex of traditional, royal and religious buildings.</p></article>]]></description>
+            <link>http://bernardthetraveller.com/7-wonders-bangkok/</link>
+            <guid isPermaLink="false">da7a3492-7a2e-42c2-bbdf-7072b097882b</guid>
+            <pubDate>Sat, 03 Sep 2016 04:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethiopia: Next big thing in Africa travel?]]></title>
             <description><![CDATA[<article><h1>Ethiopia: Next big thing in Africa travel?</h1><p>More than half a century later, the huge East African nation has yet to live up to that lofty billing. But it might not be much longer. The sights, the scenery, the culture are already there. Ethiopian's ancient orthodox Christianity has endowed the nation with thousands of churches and monasteries, some of them enshrined as UNESCO World Heritage Sites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/477f28d6da2e716ad14e16f1c2a757e0/croprotate.jpg?cropheight=618&cropwidth=1100&degrees=0&input=http%3A%2F%2Fi2.cdn.turner.com%2Fcnnnext%2Fdam%2Fassets%2F140221202538-unesco-05-super-169.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/eleutheromania/top-tips-for-travellers-going-to-indiatop-tips-for-traveller/index.html</link>
             <guid isPermaLink="false">867435de-0bb4-4684-943a-4b4ab1cf068b</guid>
             <pubDate>Thu, 02 Jun 2016 11:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 Places Every Photographer Should Visit Before They Die]]></title>
-            <description><![CDATA[<article><h1>21 Places Every Photographer Should Visit Before They Die</h1><p>Elia Locardi is an internationally-recognized professional travel photographer, Fujifilm Global Ambassador and X-Photographer, writer, public speaker, and educator who spends his life shooting some of the most beautiful locations in the world. Location independent since March of 2012, he and his wife Naomi live a 100% mobile lifestyle, perpetually traveling from country to country, continuously circling the globe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce865d98faaab09d74bb6937e97b03a9cb628873.jpg"></article>]]></description>
-            <link>https://iso.500px.com/21-places-every-photographer-should-visit-before-they-die/</link>
-            <guid isPermaLink="false">611da3a0-0e9b-48fe-a048-e370f65df529</guid>
-            <pubDate>Thu, 02 Jun 2016 10:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
